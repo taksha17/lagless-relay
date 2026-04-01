@@ -1,4 +1,3 @@
-# Create main.go
 cat > main.go << 'EOF'
 package main
 
